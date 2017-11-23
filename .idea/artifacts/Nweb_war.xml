@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Nweb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Nweb.war">
+      <element id="artifact" artifact-name="Nweb:war exploded" />
+    </root>
+  </artifact>
+</component>
